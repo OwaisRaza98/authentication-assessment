@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Manrope", sans-serif;
+  font-weight: 400;
+  line-height: 26px;
+  font-size: 14px;
+}
+body {
+  background-color: #fafafa; /* Change to your desired color */
+}
+
+/* html {
+  font-size: 62.5% !important; // 1 rem = 10px
+} */
+
+.manrope-400 {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.manrope-800 {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.primary-color {
+  color: #cc0202;
+}
+.react-tel-input .form-control {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  border-radius: 8px;
+  height: 42px !important;
+  width: inherit !important;
+}
+.react-tel-input .flag-dropdown {
+  background-color: #ffffff !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  border-radius: 8px !important;
+  border-right: 0px !important;
+}
+
+.react-date-picker__wrapper {
+  border: none !important;
+  margin-right: 0.6rem;
+  justify-content: space-between;
+}
+
+.bd-rd {
+  border-radius: 20px !important;
+}
+.right-3 {
+  right: calc(var(--spacing) * 3) !important;
+}
+input,
+select {
+  height: 40px;
+}
+.border-color {
+  border-color: #0000001a !important;
+}
+
+/* index.css */
+
+h1 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+h5 {
+  font-size: 10px;
+  font-weight: 400;
+}
+
+h6 {
+  font-size: 8px;
+  font-weight: 400;
+}

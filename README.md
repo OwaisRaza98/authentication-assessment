@@ -4,7 +4,7 @@ For the purpose of Authentication flow Assessment
 ## Quick Start
 
 1. Clone repo:
-`git clone https://github.com/OwaisRaza98/popular-articles.git`
+`https://github.com/OwaisRaza98/authentication-assessment.git`
 
 2. Install dependencies:
 `npm install`
